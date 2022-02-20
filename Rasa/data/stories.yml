@@ -1,0 +1,55 @@
+version: "2.0"
+
+stories:
+
+- story: greet
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- story: creator
+  steps:
+  - intent: creator
+  - action: utter_creator
+
+- story: define
+  steps:
+  - intent: define
+  - action: utter_define
+
+- story: creation
+  steps:
+  - intent: creation
+  - action: utter_creation
+
+- story: drupal 7 release date
+  steps:
+  - intent: release_7
+  - action: utter_release_7
+
+- story: drupal 8 release date
+  steps:
+  - intent: release_8
+  - action: utter_release_8
+
+- story: drupal 9 release date
+  steps:
+  - intent: release_9
+  - action: utter_release_9
+
+- story: drupal 10 release date
+  steps:
+  - intent: release_10
+  - action: utter_release_10
+
+- story: drupal 7 end of life
+  steps:
+  - intent: end_of_life_7
+  - action: utter_end_of_life_7
+
+- story: drupal 8 end of life
+  steps:
+  - intent: end_of_life_8
+  - action: utter_end_of_life_8
+
+
