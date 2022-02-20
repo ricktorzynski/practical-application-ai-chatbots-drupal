@@ -6,4 +6,7 @@ during the conference.  Unfortunately I was unable to present as scheduled -
 I had a family emergency and had to return to Jacksonville, Florida Friday
 night.  Here is the content of my presentation.
 
+[Google Slides Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRh3xYGf_CplYUEm4cAVTLIPLrKNB1E8LZQJyIC9ysraOFx9fs98o35IuLADrwzQhHelrFA_B2qUbrB/pub?start=true&loop=false&delayms=3000)
+
+
 
